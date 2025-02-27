@@ -13,3 +13,5 @@ To adjust the speed and dimensions to be realistic you need to add the following
 
 Caveat:
 - Scopes with high zoom can't cope with short distance to screen. The image becomes too blurry.
+
+![Alt Text](out.gif)
